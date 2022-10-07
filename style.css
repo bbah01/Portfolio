@@ -97,6 +97,8 @@ PROJECT
 
 #project .card img {
 	width: 100%;
+	border-top-left-radius: .4vw;
+    border-bottom-left-radius: .4vw;
 }
 
 #project .card-title {
